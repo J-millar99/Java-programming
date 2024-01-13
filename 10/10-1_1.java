@@ -11,6 +11,6 @@ class Accumulator {
 	}
 	static void showResult()
 	{
-		System.out.println("총 합: " + sum)
+		System.out.println("총 합: " + sum);
 	}
 }
